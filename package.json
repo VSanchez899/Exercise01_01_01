@@ -1,0 +1,22 @@
+{
+  "name": "exercise01_01_01",
+  "version": "1.0.0",
+  "description": "An intro to node.js & ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VSanchez899/Exercise01_01_01.git"
+  },
+  "author": "Vincent Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VSanchez899/Exercise01_01_01/issues"
+  },
+  "homepage": "https://github.com/VSanchez899/Exercise01_01_01#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
