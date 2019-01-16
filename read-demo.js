@@ -1,7 +1,7 @@
 //Author: Vincent Sanchez
-//File name: 
-//Title: 
-//Exercise/Project Number:
+//File name: read-demo.js
+//Title: read demo 1
+//Exercise/Project Number: Exercise01_01_01
 
 var fs = require("fs");
 

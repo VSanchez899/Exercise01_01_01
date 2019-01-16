@@ -15,7 +15,7 @@ app.use('/message', function name(req, res) {
     console.log("user requested an endpoint!")    
     res.send("<h2>Hello from the server endpoint!</h2>");
 });
-
+//when the user look for the user end point it will trigger the app listen telling the console that the user want a certain page or set of information
 app.use('/users', function(req, res){
     fs.readFile('./data2.json', 'utf-8', function(err, data){
         res.send(data);

@@ -1,7 +1,7 @@
 //Author: Vincent Sanchez
-//File name: write-file-demo
-//Title: 
-//Exercise/Project Number:
+//File name: write-to-file.js
+//Title: write file demo
+//Exercise/Project Number: Exercise01_01_01
 
 var fs = require('fs');
 

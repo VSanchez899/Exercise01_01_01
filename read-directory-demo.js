@@ -1,7 +1,7 @@
 //Author: Vincent Sanchez
-//File name: read-directory-demo.js
-//Title: 
-//Exercise/Project Number:
+//File name: read-directory.js
+//Title: read directory
+//Exercise/Project Number: Exercise01_01_01
 //
 var fs = require('fs');
 

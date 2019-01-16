@@ -7,7 +7,7 @@ fs.readdir('/', function(){
 });
 
 
-//this is anonymous function
+//this is anonymous function that runs the when their is a call back
 
 
 console.log("this code is executed last!");
